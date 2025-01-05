@@ -16,11 +16,6 @@ This is an Vacation Hub clone built with Next.js, TypeScript, Tailwind CSS, Mong
 ![image](https://github.com/user-attachments/assets/7a87a527-f554-4881-b596-c33807b8bcd5)
 
 
-
-<kbd><img width="886" alt="login-modal" src="https://github.com/sudeepmahato16/Vacation Hub_clone/assets/122378993/3d6675e0-6046-48dc-b55f-7ef318581ccd"></kbd>
-
-<kbd><img width="810" alt="listing" src="https://github.com/sudeepmahato16/Vacation Hub_clone/assets/122378993/a0b05a50-cbc2-40db-8f62-6cc203a7c887"></kbd>
-
 ## Prerequisites
 
 Make sure you have the following software installed on your system:
